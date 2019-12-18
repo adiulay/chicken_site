@@ -1,6 +1,6 @@
-# TO START GO DOWNLOAD THIS AND INITIATE IN YOUR CMD: vagrant up
-# TO ACCESS DATABASE IN YOU CMD: vagrant ssh (mysql: root:root)
-# TO LOGIN INTO WORDPRESS: admin:root
+## TO START GO DOWNLOAD THIS AND INITIATE IN YOUR CMD: vagrant up
+## TO ACCESS DATABASE IN YOU CMD: vagrant ssh (mysql: root:root)
+## TO LOGIN INTO WORDPRESS: admin:root
 
 # Scotch Box
 
