@@ -1,13 +1,93 @@
-[18/Dec/2019:19:28:54] (ℹ️): WordPress Instance Info:
-[18/Dec/2019:19:28:54] (ℹ️): Home URL : http://192.168.33.10
-[18/Dec/2019:19:28:54] (ℹ️): Site URL : http://192.168.33.10
-[18/Dec/2019:19:28:54] (ℹ️): WordPress Version : 5.3.1
-[18/Dec/2019:19:28:54] (ℹ️): Onboarding Version : 1.7.12
-[18/Dec/2019:19:28:54] (ℹ️): Multisite : No
-[18/Dec/2019:19:28:54] (ℹ️): Server Info : Apache/2.4.18 (Ubuntu)
-[18/Dec/2019:19:28:54] (ℹ️): PHP Version : 7.0.18-0ubuntu0.16.04.1
-[18/Dec/2019:19:28:54] (ℹ️): HTTPS : No
-[18/Dec/2019:19:28:54] (ℹ️): PHP Max Execution Time : 30
-[18/Dec/2019:19:28:54] (ℹ️): PHP Max Input Vars : 1000
-[18/Dec/2019:19:28:54] (ℹ️): Max Upload Size : 2097152
-[18/Dec/2019:19:28:54] (ℹ️): Plugins:
+[18/Dec/2019:19:45:23] (ℹ️): WordPress Instance Info:
+[18/Dec/2019:19:45:23] (ℹ️): Home URL : http://192.168.33.10
+[18/Dec/2019:19:45:23] (ℹ️): Site URL : http://192.168.33.10
+[18/Dec/2019:19:45:23] (ℹ️): WordPress Version : 5.3.1
+[18/Dec/2019:19:45:23] (ℹ️): Onboarding Version : 1.7.12
+[18/Dec/2019:19:45:23] (ℹ️): Multisite : No
+[18/Dec/2019:19:45:23] (ℹ️): Server Info : Apache/2.4.18 (Ubuntu)
+[18/Dec/2019:19:45:23] (ℹ️): PHP Version : 7.0.18-0ubuntu0.16.04.1
+[18/Dec/2019:19:45:23] (ℹ️): HTTPS : No
+[18/Dec/2019:19:45:23] (ℹ️): PHP Max Execution Time : 30
+[18/Dec/2019:19:45:23] (ℹ️): PHP Max Input Vars : 1000
+[18/Dec/2019:19:45:23] (ℹ️): Max Upload Size : 2097152
+[18/Dec/2019:19:45:23] (ℹ️): Plugins:
+[18/Dec/2019:19:45:23] (ℹ️): [PLUGIN] Elementor : v2.8.2 (Elementor.com)
+[18/Dec/2019:19:45:23] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.14 (Themeisle)
+[18/Dec/2019:19:45:23] (✅): Using local XML.
+[18/Dec/2019:19:45:23] (🔵): Starting content import...
+[18/Dec/2019:19:45:23] (✅): Import started.
+[18/Dec/2019:19:45:23] (✅): Parsing XML file.
+[18/Dec/2019:19:45:23] (🔵): Starting parsing file:/var/www/public/wp-content/themes/neve/onboarding/neve-restaurant/export.xml
+[18/Dec/2019:19:45:23] (🔵): Using Themeisle_OB_WXR_Parser_SimpleXML...
+[18/Dec/2019:19:45:23] (✅): Parsed XML
+[18/Dec/2019:19:45:23] (🔵): Processing categories...
+[18/Dec/2019:19:45:23] (✅): Processed categories.
+[18/Dec/2019:19:45:23] (🔵): Processing tags...
+[18/Dec/2019:19:45:23] (✅): No tags to process.
+[18/Dec/2019:19:45:23] (🔵): Processing terms...
+[18/Dec/2019:19:45:23] (✅): Processed terms.
+[18/Dec/2019:19:45:23] (🔵): Processing posts...
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-header1 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-menu1 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-menu2 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu1.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu2.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu3.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu4.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu5 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu7.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu8.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-small-menu1.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-small-menu4 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-small-menu2.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-small-menu5.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-small-menu3.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-small-menu6 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-med-menu3a.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-testimonial-1.jpg already exists.
+[18/Dec/2019:19:45:23] (✅): Media placeholder-image already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-gallery-menu6 already exists.
+[18/Dec/2019:19:45:23] (✅): Custom CSS neve already exists.
+[18/Dec/2019:19:45:23] (✅): Page Blog already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-header3-1024x413 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-our-header already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-ourrestaurant-photo2 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-ourrestaurant-photo3 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-ourrestaurant-photo4 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-ourrestaurant-photo1 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-ourrestaurant-photo-m3 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-testimonial-2 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-toast already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-header4-1024x663 already exists.
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-reservation-header1-1024x429 already exists.
+[18/Dec/2019:19:45:23] (✅): Page Homepage already exists.
+[18/Dec/2019:19:45:23] (🔵): Filtering elementor meta...
+[18/Dec/2019:19:45:23] (✅): Filtered elementor meta.
+[18/Dec/2019:19:45:23] (✅): Page Reservations already exists.
+[18/Dec/2019:19:45:23] (🔵): Filtering elementor meta...
+[18/Dec/2019:19:45:23] (✅): Filtered elementor meta.
+[18/Dec/2019:19:45:23] (🔵): Processing single menu item ' '...
+[18/Dec/2019:19:45:23] (✅): Processed single menu item.
+[18/Dec/2019:19:45:23] (🔵): Processing single menu item ' '...
+[18/Dec/2019:19:45:23] (🔵): Processing single menu item ' '...
+[18/Dec/2019:19:45:23] (✅): Media neve-restaurant-testimonial-3 already exists.
+[18/Dec/2019:19:45:23] (✅): Media harta already exists.
+[18/Dec/2019:19:45:23] (✅): Page Menu already exists.
+[18/Dec/2019:19:45:23] (🔵): Filtering elementor meta...
+[18/Dec/2019:19:45:23] (✅): Filtered elementor meta.
+[18/Dec/2019:19:45:23] (✅): Page Our restaurant already exists.
+[18/Dec/2019:19:45:23] (🔵): Filtering elementor meta...
+[18/Dec/2019:19:45:23] (✅): Filtered elementor meta.
+[18/Dec/2019:19:45:23] (✅): Processed posts.
+[18/Dec/2019:19:45:23] (🔵): Processing single menu item ' '...
+[18/Dec/2019:19:45:23] (✅): Processed single menu item.
+[18/Dec/2019:19:45:23] (🔵): Processing single menu item ' '...
+[18/Dec/2019:19:45:23] (✅): Processed single menu item.
+[18/Dec/2019:19:45:23] (🔵): Cleaning up import with id ...
+[18/Dec/2019:19:45:23] (🔵): Done cleanup. Flushing cache...
+[18/Dec/2019:19:45:23] (🔵): Flushed cache. Removing temporary data..
+[18/Dec/2019:19:45:23] (✅): Done importing
+[18/Dec/2019:19:45:23] (🔵): Busting elementor cache
+[18/Dec/2019:19:45:23] (✅): Front page set up with id: 174.
+[18/Dec/2019:19:45:23] (🔵): Setting up shop page.
+[18/Dec/2019:19:45:23] (✅): No WooCommerce.
